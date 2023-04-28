@@ -25,6 +25,7 @@ Three kinds of annotations are provided, including:
 
 ### 3. Paper 
 
+GFSD is intruduce by Mao et al. in "A Dataset and Ensemble Model for Glass Façade Segmentation in Oblique Aerial Images".
 link: https://ieeexplore.ieee.org/document/9812598
 
 If the GFSD is helpful, please cite with:
